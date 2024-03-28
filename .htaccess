@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^catalogo$ https://www.nervi.ao/nervi-catalogo-compressed.pdf [R=301,L]
